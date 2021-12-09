@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kunal040799
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ...python and data science
+- 🌱 I’m currently learning .. 
 - 📫 How to reach me ... kunalshete177@gmail.com
 
 <!---
